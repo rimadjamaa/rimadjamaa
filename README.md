@@ -22,7 +22,7 @@
 ---
 
 ## Contact_Me
-[![LinkedIn](https://lottie.host/f5b79e2c-fdaf-4354-ae10-97158de35f88/zPWy3QjZjP.lottie)](www.linkedin.com/in/ryma-djamaa-648a4b260)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryma-djamaa-648a4b260)
 
 ![GithunSummary](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rimadjamaa&theme=highcontrast)
 ---
