@@ -6,8 +6,8 @@
   <a href="https://twitter.com/rimadjamaa" title="Twitter - @rimadjamaa"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/ryma-djamaa-648a4b260/" title="LinkedIn - Rima djamaa"><img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/></a> | <a href="https://rimadjamaa.github.io/MyLogiciel/" title="Personal Website - rimadjamaa.com"><img src="https://img.shields.io/badge/rimadjamaa.com%20-%20?style=plastic&logoColor=white"/></a>
 </p>
 
-I am a back-end developer (60%) and front-end developer (40%). My curiosity drives me to explore new technologies, and I'm committed to understanding the fundamentals. I am detail-oriented, and my passion for code and personal development fuels my journey in the ever-evolving world of software.
-
+<h4 align="center">I am a back-end developer (60%) and front-end developer (40%). My curiosity drives me to explore new technologies, and I'm committed to understanding the fundamentals. I am detail-oriented, and my passion for code and personal development fuels my journey in the ever-evolving world of software.
+</h4>
 ---
 
 ## Technologies & Tools 💻
@@ -21,10 +21,10 @@ I am a back-end developer (60%) and front-end developer (40%). My curiosity driv
 
 ---
 
-## Blog
+## Contact_Me
+[![LinkedIn](https://lottie.host/f5b79e2c-fdaf-4354-ae10-97158de35f88/zPWy3QjZjP.lottie)](www.linkedin.com/in/ryma-djamaa-648a4b260)
 
-Apart from coding, I also maintain a blog related to software topics, you can find it here [<img src="https://img.shields.io/badge/Medium-12100E.svg?&style=plastic&logo=medium&logoColor=white"/>](https://medium.com/@djamaarima7) as well as some other publications on [<img src="https://img.shields.io/badge/Blog-30d0ff.svg?&style=plastic"/>]([https://medium.com/@josephmahiuha](https://x.com/RimaDjamaa))
-
+![GithunSummary](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rimadjamaa&theme=highcontrast)
 ---
 
 <!-- Resources -->
